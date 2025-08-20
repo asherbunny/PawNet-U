@@ -26,9 +26,6 @@ Pixel-wise segmentation of cats & dogs into **background / pet / border** using 
 ## 🔹 Results
 Example prediction (left = input, middle = ground truth, right = U-Net prediction):
 
-![results](results/sample_prediction.png)
-
-- **Model size:** XX layers, YY trainable parameters  
 - Performs well on clean backgrounds & large pets  
 - Struggles on fine details (fur edges, whiskers, cluttered scenes)  
 
